@@ -1,6 +1,12 @@
+.. image:: ../logo.png
 
-    
-    View on `ReadTheDocs <https://difit.readthedocs.io/en/latest/readme.html>`_
+    :width: 400
+
+    :align: center
+
+    :alt: ReadTheDocs
+
+    :target: https://difit.readthedocs.io/en/latest/readme.html
     
     Edit on `GitHub <https://github.com/kodiweera/difit>`_
     
