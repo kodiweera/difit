@@ -1,12 +1,12 @@
 
     
-    View on `ReadTheDocs <https://difit.readthedocs.io/en/latest/readme.html>`
+    View on `ReadTheDocs <https://difit.readthedocs.io/en/latest/readme.html>`_
     
-    Edit on `ReadTheDocs <https://github.com/kodiweera/difit>`
+    Edit on `ReadTheDocs <https://github.com/kodiweera/difit>`_
     
-    `Docker Image <https://hub.docker.com/r/diffdocker/difit>`
+    `Docker Image <https://hub.docker.com/r/diffdocker/difit>`_
     
-    `PYPI <https://pypi.org/project/difit/>`
+    `PYPI <https://pypi.org/project/difit/>`_
     
 *difit*: **A diffusion MRI models fitting software**
 ====================================================
