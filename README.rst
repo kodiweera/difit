@@ -3,8 +3,7 @@
     :width: 400
     :align: center
     :alt: ReadTheDocs
-    :target: https://difit.readthedocs.io/en/stable/
-
+    :target: https://difit.readthedocs.io/en/latest/readme.html
 *difit*: **A diffusion MRI models fitting software**
 ====================================================
 
