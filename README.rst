@@ -4,6 +4,14 @@
     :align: center
     :alt: ReadTheDocs
     :target: https://difit.readthedocs.io/en/latest/readme.html
+    
+.. image:: ../logo.png
+    :width: 400
+    :align: center
+    :alt: ReadTheDocs
+    :target: https://github.com/kodiweera/difit
+    
+    
 *difit*: **A diffusion MRI models fitting software**
 ====================================================
 
