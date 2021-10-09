@@ -6,10 +6,10 @@
 
     :alt: ReadTheDocs
 
-    :target: https://difit.readthedocs.io/en/stable/
+    :target: https://difit.readthedocs.io/en/latest/index.html
     
     
-`ReadtheDocs <https://difit.readthedocs.io/en/latest/readme.html>`_
+`ReadtheDocs <https://difit.readthedocs.io/en/latest/index.html>`_
 
 `GitHub <https://github.com/kodiweera/difit>`_
     
