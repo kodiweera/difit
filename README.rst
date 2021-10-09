@@ -1,12 +1,12 @@
 .. image:: ../logo.png
 
-    :width: 400
+   :width: 400
 
-    :align: center
+   :align: center
 
-    :alt: ReadTheDocs
+   :alt: ReadTheDocs
 
-    :target: https://difit.readthedocs.io/en/latest/readme.html
+   :target: https://difit.readthedocs.io/en/latest/readme.html
     
     
     
