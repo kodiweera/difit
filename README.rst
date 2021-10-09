@@ -1,3 +1,4 @@
+
 .. image:: ../logo.png
     :width: 400
     :align: center
@@ -109,6 +110,35 @@ Output files
 
 
 *difit* creates **dti** and **dki** directories in the out directory to store the above output files for each subject.
+
+Docker image
+-------------
+Download the docker image:
+
+``docker pull diffdocker/difit:1.0.0``
+
+Run the Dcoker Image:
+
+The data , out and work directories must be mounted to the host.
+
+For example:
+
+``docker run -it --rm -v /home/user/difit:/data -v /home/user/difit/out:/out -v /home/user/difit/work:/work difit:1.0.0 python -m difit '/data' '/out' '/work' --models dti --dti_b_values 1000 --dti_b0_images 3 --mem 6 --nprocs 2``
+
+
+
+Singularity Image
+------------------
+
+
+Build the singularity imge form docker image:
+
+``singularity build difit_1.0.0.simg docker://diffdocker/difit:1.0.0``
+
+Run the singularity Image (for example):
+
+``singularity run --cleanenv difit_1.0.0.simg python -m difit '/data' '/out' '/work' --models dti --dti_b_values 1000 --dti_b0_images 3 --mem 6 --nprocs 2``
+
 
 HELP
 *****
