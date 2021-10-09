@@ -9,7 +9,7 @@
       :target: https://difit.readthedocs.io/en/latest/readme.html
     
     
-`ReadtheDcos <https://difit.readthedocs.io/en/latest/readme.html>`_
+`ReadtheDocs <https://difit.readthedocs.io/en/latest/readme.html>`_
 
 `GitHub <https://github.com/kodiweera/difit>`_
     
