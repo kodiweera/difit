@@ -2,7 +2,7 @@
     
     View on `ReadTheDocs <https://difit.readthedocs.io/en/latest/readme.html>`_
     
-    Edit on `ReadTheDocs <https://github.com/kodiweera/difit>`_
+    Edit on `GitHub <https://github.com/kodiweera/difit>`_
     
     `Docker Image <https://hub.docker.com/r/diffdocker/difit>`_
     
