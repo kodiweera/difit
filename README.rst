@@ -9,8 +9,9 @@
       :target: https://difit.readthedocs.io/en/latest/readme.html
     
     
-    
-Edit on `GitHub <https://github.com/kodiweera/difit>`_
+`ReadtheDcos <https://difit.readthedocs.io/en/latest/readme.html>`_
+
+`GitHub <https://github.com/kodiweera/difit>`_
     
 `Docker Image <https://hub.docker.com/r/diffdocker/difit>`_
     
