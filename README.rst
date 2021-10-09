@@ -8,7 +8,7 @@
 .. image:: ../logo.png
     :width: 400
     :align: center
-    :alt: ReadTheDocs
+    :alt: GitHub
     :target: https://github.com/kodiweera/difit
     
     
