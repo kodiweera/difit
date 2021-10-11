@@ -143,7 +143,7 @@ Singularity Image
 ------------------
 
 
-Build the singularity imge form docker image:
+Build a singularity imge from the docker image:
 
 ``singularity build difit_1.0.0.simg docker://diffdocker/difit:1.0.0``
 
