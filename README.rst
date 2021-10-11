@@ -129,7 +129,7 @@ Download the docker image:
 
 ``docker pull diffdocker/difit:1.0.0``
 
-Run the Dcoker Image:
+Run the Docker Image:
 
 The data , out and work directories must be mounted to the host.
 
