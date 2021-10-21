@@ -20,7 +20,7 @@
 *difit*: **A diffusion MRI models fitting software**
 ====================================================
 
-*difit* is being developed as an attempt to bring in major diffusion models into one place (*v1.0.0* can do DTI and DKI models). *difit* allows to choose b-values and b0-images from multi-shell data as the user desires. This enable the user to test different combinations easily without splitting data prior to the model fitting.
+*difit* is being developed as an attempt to bring in major diffusion models into one place (*v1.0.0* can do DTI and DKI models). *difit* allows to choose b-values and b0-images from multi-shell data as the user desires. This enables the user to test different combinations easily without splitting data prior to the model fitting.
 
 Major software packages in the background
 -----------------------------------------
