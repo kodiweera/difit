@@ -73,7 +73,7 @@ ENV HOME="/home/difit"
 # RUN python -c "from matplotlib import font_manager" && \
 #     sed -i 's/\(backend *: \).*$/\1Agg/g' $( python -c "import matplotlib; print(matplotlib.matplotlib_fname())" )
 
-# Installing FMRIPREP
+# Installing difit
 COPY . /src/difit
 ARG VERSION
 
